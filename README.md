@@ -1,10 +1,6 @@
 # Hi there, I'm Amir 👋
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
-
-<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_q9z0b0.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
-
 
 ## 🚀 About Me
 
@@ -72,6 +68,7 @@ I'm a passionate programmer and a software developer with experience in web deve
 ## 📈 GitHub Stats
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=amirofski)](https://git.io/streak-stats)
 
 ## 😄 Fun fact
 
