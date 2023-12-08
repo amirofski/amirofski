@@ -1,5 +1,8 @@
 # Hi there, I'm Amir 👋
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 🚀 About Me
@@ -68,7 +71,7 @@ I'm a passionate programmer and a software developer with experience in web deve
 ## 📈 GitHub Stats
 
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amirofski)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 ## 😄 Fun fact
 
