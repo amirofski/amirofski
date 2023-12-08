@@ -1,13 +1,10 @@
 # Hi there, I'm Amir 👋
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<div class="lottie-container" width="230"></div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/8.9.2/lottie.min.js"></script>
-<script>
-  var container = document.querySelector(".lottie-container");
-  var animationId = "https://raw.githubusercontent.com/amirofski/amirofski/main/lottie.json"; // replace with your animation id
-  Lottie.loadAnimation(container, animationId);
-</script>
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+<lottie-player src="https://assets10.lottiefiles.com/packages/lf20_q9z0b0.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
+
 
 ## 🚀 About Me
 
