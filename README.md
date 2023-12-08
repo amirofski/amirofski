@@ -1,38 +1,39 @@
-# 👋 Hello, World! Welcome to My GitHub Wonderland! 
+# Hi there, I'm Amir Moqadam! 👋
 
-I'm [Your Name], a passionate 💻 [Your Profession] with a love for 🌐 [Your Interests]. Here, you'll find a mix of magic and code, sprinkled with a dash of curiosity.
+![Profile views](https://gpvc.arturio.dev/amirofski)
 
-## ✨ About Me
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-I'm on a mission to turn coffee ☕ into code. My days are fueled by the love for ⚡ [Your Favorite Programming Languages] and a perpetual curiosity about 🚀 [Your Favorite Technology/Field]. When I'm not coding, you can find me 🎨 [Your Hobbies].
+## 🚀 About Me
 
-## 🚀 What I'm Working On
+I'm a passionate programmer and a software developer with experience in web development and mobile app development. I love to solve complex problems and build innovative solutions.
 
-- 🌈 [Project 1]: Brief description and purpose.
-- 🔍 [Project 2]: Brief description and purpose.
-- 🚀 [Project 3]: Brief description and purpose.
+## 🛠️ Skills
 
-I believe in the magic of collaboration, so feel free to explore, contribute, or even share your thoughts on any of my projects.
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+</div>
 
-## 🛠️ Tech Stack
+## 🌱 I’m currently learning
 
-- **Languages**: [List of Programming Languages]
-- **Tools**: [Your Favorite Development Tools]
-- **Frameworks**: [Frameworks and Libraries You Love]
+- TypeScript
+- GraphQL
 
-## 🌐 Connect with Me
+## 📫 How to reach me
 
-- [![Twitter](https://img.shields.io/twitter/follow/yourtwitterhandle?style=social)](https://twitter.com/yourtwitterhandle)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
-- [![Personal Website](https://img.shields.io/badge/Website-Visit%20Me-brightgreen)](https://www.yourwebsite.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmoqadam)
+[![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir.moqadam@gmail.com)
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=radical)
 
-## 🚀 Latest Blog Posts
+## 😄 Fun fact
 
-- [Blog Post 1 Title](https://yourblog.com/post1)
-- [Blog Post 2 Title](https://yourblog.com/post2)
+I love to play chess and I'm a chess enthusiast.
 
-Let's create some spells together! ✨
+![Jokes Card](https://readme-jokes.vercel.app/api)
