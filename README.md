@@ -11,11 +11,12 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/amirofski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align="right" src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
 
 ## 🚀 About Me
 
-I'm a passionate programmer and a software developer with experience in web development and mobile app development. I love to solve complex problems and build innovative solutions.
+I'm a passionate programmer and a software developer with experience in web development and mobile app development. I love to solve complex problems and build innovative solutions.&nbsp;
+“I always rely on search engines for writing code, and for any topic in my work, I first search. Artificial intelligence also needs it.
 
 ## 🛠️ Skills
 
