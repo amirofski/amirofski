@@ -80,8 +80,8 @@ I'm a passionate programmer and a software developer with experience in web deve
 
 <div style="background-color: #161b22;">
   
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=radical&background_color=#161b22&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=dark&hide_border=true&mode=weekly&background_color=#161b22)](https://git.io/streak-stats)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=modern-lilac&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=dark&hide_border=true&mode=weekly&background=161b22)](https://git.io/streak-stats)
 
 </div>
 
