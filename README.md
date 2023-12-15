@@ -77,10 +77,14 @@ I'm a passionate programmer and a software developer with experience in web deve
 [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir@mitb.ir)
 
 ## 📈 GitHub Stats
+
 <div style="background-color: #161b22;">
+  
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=dark&hide_border=false&mode=weekly)](https://git.io/streak-stats)
+
 </div>
+
 ## 😄 Fun fact
 
 I love to play chess and I'm a chess enthusiast.
