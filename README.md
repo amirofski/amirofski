@@ -78,10 +78,12 @@ I'm a passionate programmer and a software developer with experience in web deve
 
 ## 📈 GitHub Stats
 
+<div>
   
 ![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&background=0d1117&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=dark&hide_border=true&mode=weekly&background=161b22)](https://git.io/streak-stats)
 
+</div>
 
 ## 😄 Fun fact
 
