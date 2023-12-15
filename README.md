@@ -80,7 +80,7 @@ I'm a passionate programmer and a software developer with experience in web deve
 
 <div>
   
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&background=0d1117&hide_border=true)
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=transparent&hide_border=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 </div>
