@@ -90,3 +90,5 @@ I'm a passionate programmer and a software developer with experience in web deve
 I love to play chess and I'm a chess enthusiast.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+0x96AFe648e9De12a1a1F7ff34f2B1F94c0384CC4e
