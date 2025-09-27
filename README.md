@@ -71,9 +71,12 @@ I'm a passionate programmer and a software developer with experience in web deve
 - web3
 - prompt Engineering
 
+## 🗿 Wakatime Report
+
+<figure><embed src="https://wakatime.com/share/@018c44ff-caff-49c5-9d0b-71280873203b/2dc9539f-7d08-4f67-b95f-aa205e81238c.svg"></embed></figure>
+
 ## 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmoqadam)
 [![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir@mitb.ir)
 
 ## 📈 GitHub Stats
