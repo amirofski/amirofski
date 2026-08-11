@@ -27,11 +27,11 @@
 ```text
 ┌─ /usr/bin/amir ──────────────────────────────────────────────────────┐
 │                                                                      │
-│  role       Senior Software Engineer                                │
-│  focus      Product Engineering · Frontend · AI · Web3              │
+│  role       Senior Software Engineer                                 │
+│  focus      Product Engineering · Frontend · AI · Web3               │
 │  experience 15+ years                                                │
-│  mindset    Build → Measure → Improve → Repeat                      │
-│  status     ████████████████████████████████████████  SHIP IT       │
+│  mindset    Build → Measure → Improve → Repeat                       │
+│  status     ████████████████████████████████████████  SHIP IT        │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
