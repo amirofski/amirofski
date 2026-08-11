@@ -1,97 +1,232 @@
-<h2 align="center" stype="color:#f75c7e"> Hi there, I'm Amir 👋</h2>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;20%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=1000&size=22" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/amirofski?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/amirofski?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
+# AMIR MOGHADDAM
 
-<img align="right" src="https://media2.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="230">
+### Senior Software Engineer · Product Engineering · AI · Web3
 
-## 🚀 About Me
+*I build products from the first idea to production.*
 
-I'm a passionate programmer and a software developer with experience in web development and mobile app development. I love to solve complex problems and build innovative solutions.&nbsp;
-“I always rely on search engines for writing code, and for any topic in my work, I first search. Artificial intelligence also needs it.
+<br>
 
-## 🛠️ Skills
-
-<div>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" title="angularjs" alt="angularjs" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original-wordmark.svg" title="blender" alt="blender" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" title="canva" alt="canva" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain-wordmark.svg" title="filezilla" alt="filezilla" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original-wordmark.svg" title="gatsby" alt="gatsby" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" title="graphql" alt="graphql" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" title="linkedin" alt="linkedin" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" title="nginx" alt="nginx" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="visualstudio" alt="visualstudio" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" alt="threejs" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" title="solidity" alt="solidity" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" title="sass" alt="sass" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" title="rust" alt="rust" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg" title="putty" alt="putty" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" title="premierepro" alt="premierepro" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/polygon/polygon-original.svg" title="polygon" alt="polygon" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-</div>
-
-## 🌱 I’m currently learning
-
-- LLM
-- Generative AI
-- web3
-- prompt Engineering
-
-## 🗿 Wakatime Report
-
-<figure><embed src="https://wakatime.com/share/@018c44ff-caff-49c5-9d0b-71280873203b/2dc9539f-7d08-4f67-b95f-aa205e81238c.svg"></embed></figure>
-
-## 📫 How to reach me
-
-[![Email Badge](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir@mitb.ir)
-
-## 📈 GitHub Stats
-
-<div>
-  
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirofski&show_icons=true&theme=transparent&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=amirofski&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+<a href="https://www.linkedin.com/in/amirmoqadam">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="https://github.com/amirofski">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+</a>
+&nbsp;
+<a href="mailto:amir.devel@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
-## 😄 Fun fact
+---
 
-I love to play chess and I'm a chess enthusiast.
+```text
+┌─ /usr/bin/amir ──────────────────────────────────────────────────────┐
+│                                                                      │
+│  role       Senior Software Engineer                                │
+│  focus      Product Engineering · Frontend · AI · Web3              │
+│  experience 15+ years                                                │
+│  mindset    Build → Measure → Improve → Repeat                      │
+│  status     ████████████████████████████████████████  SHIP IT       │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+## `whoami`
 
-0x96AFe648e9De12a1a1F7ff34f2B1F94c0384CC4e
+I've spent most of my career building software from scratch.
+
+My path started with traditional web development, long before modern frameworks, cloud platforms, and AI coding tools. Since then I've built social platforms, video systems, SaaS products, blockchain applications, and AI-powered software.
+
+I tend to move across the stack when the product needs it: frontend, backend, databases, infrastructure, deployment, architecture, and sometimes even the parts of the product that have nothing to do with writing code.
+
+I care about the problem before the technology.
+
+---
+
+## `proof`
+
+> **99,000+ users**
+> Built and operated a multimedia social platform as a solo engineer.
+
+> **15M+ database records · 50GB**
+> Designed and operated the production database behind that platform.
+
+> **5,000+ film archives**
+> Worked on large-scale film digitization and video workflows at SabaIdea.
+
+> **40% / 50% / 60%**
+> Improved retrieval, processing, and content-delivery workflows across video systems.
+
+> **Ethereum Mainnet**
+> Designed and deployed smart contracts and built Web3 applications for startup products.
+
+The numbers matter, but the engineering decisions behind them matter more.
+
+---
+
+## `selected-work`
+
+### `friendfa`
+
+**Multimedia Social Network · PHP · MySQL · JavaScript**
+
+Built from scratch as a solo engineer.
+
+Designed the application, database, infrastructure, deployment pipeline, social features, private messaging, personal storage, SEO strategy, and production operations.
+
+**Result:** 99,000+ registered users.
+
+---
+
+### `sabaidea`
+
+**Video Products · Aparat · Filimo · Content Infrastructure**
+
+Worked across video processing, film digitization, storage, segmentation, quality profiling, and adaptive streaming.
+
+**Result:** 5,000+ digitized national film archives and measurable improvements across retrieval, processing, delivery, and engagement.
+
+---
+
+### `serenity shield`
+
+**Web3 · React · Vite · Node.js · Infrastructure**
+
+Modernized a production blockchain frontend by migrating CRA → Vite, rebuilding wallet interactions, integrating product features, and managing production infrastructure.
+
+**Result:** frontend modernization, improved wallet UX, and hands-on ownership across application and infrastructure layers.
+
+---
+
+### `arzansite`
+
+**AI · React · Vite · Node.js · Open Source**
+
+An AI-powered platform for turning ideas into websites.
+
+Built as an exploration of AI-assisted product development, automated generation, and the boundary between software engineering and product creation.
+
+[View on GitHub →](https://github.com/amirofski)
+
+---
+
+### `scroll-narrative-framework`
+
+**Open Source · Architecture · Experience Systems**
+
+An exploration of a different way to build interactive web experiences: describe the experience first, compile it into an experience graph, then execute it across runtimes.
+
+[Explore the project →](https://github.com/amirofski/scroll-narrative-framework)
+
+---
+
+## `engineering-principles`
+
+```text
+01  Understand the problem before writing the solution.
+
+02  Prefer simple systems that can evolve.
+
+03  Treat frontend, backend, infrastructure, and product as one system.
+
+04  Measure real behavior instead of assuming.
+
+05  Read the documentation. Then experiment.
+
+06  Use AI as a force multiplier, not as a substitute for understanding.
+
+07  Leave the codebase better than you found it.
+```
+
+---
+
+## `stack`
+
+### Product & Frontend
+
+`React` · `Next.js` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS`
+
+### Backend
+
+`Node.js` · `NestJS` · `PHP` · `REST` · `GraphQL`
+
+### Data
+
+`PostgreSQL` · `MySQL` · `MariaDB` · `Redis`
+
+### Web3
+
+`Solidity` · `Ethereum` · `Solana` · `Web3.js` · `WalletConnect`
+
+### Infrastructure
+
+`Linux` · `Docker` · `Nginx` · `PM2` · `Cloudflare` · `CI/CD`
+
+### AI
+
+`LLM Applications` · `AI APIs` · `Prompt Engineering` · `AI-assisted Development`
+
+---
+
+## `now`
+
+I'm currently focused on the intersection of:
+
+**AI × Software Engineering × Product**
+
+I'm especially interested in systems that make software development more capable without making the underlying engineering less understandable.
+
+---
+
+## `open-source`
+
+Some of the projects and ideas I'm building in public:
+
+* **[Scroll Narrative Framework](https://github.com/amirofski/scroll-narrative-framework)**
+* **[ArzanSite](https://github.com/amirofski)**
+* More experiments, tools, and engineering notes are coming.
+
+---
+
+## `contact`
+
+The best way to reach me:
+
+**LinkedIn:**
+https://www.linkedin.com/in/amirmoqadam
+
+**GitHub:**
+https://github.com/amirofski
+
+**Email:**
+[amir.devel@gmail.com](mailto:amir.devel@gmail.com)
+
+---
+
+<div align="center">
+
+### `build something worth remembering.`
+
+</div>
+
+<!--
+If you found this profile interesting, start with the projects above.
+The repository list is the real resume.
+-->
+
+---
+
+<!--
+
+    ╔══════════════════════════════════════════════╗
+    ║                                              ║
+    ║        BUILD > SHIP > LEARN > REPEAT        ║
+    ║                                              ║
+    ╚══════════════════════════════════════════════╝
+
+-->
