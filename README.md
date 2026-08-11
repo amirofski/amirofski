@@ -1,6 +1,6 @@
 <div align="center">
 
-# AMIR MOGHADDAM
+# AMIR MOQADAM
 
 ### Senior Software Engineer · Product Engineering · AI · Web3
 
