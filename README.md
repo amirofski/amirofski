@@ -1,232 +1,186 @@
 <div align="center">
 
-# AMIR MOQADAM
+# AMIR MOGHADDAM
 
-### Senior Software Engineer · Product Engineering · AI · Web3
+### Senior Software Engineer · Full Stack · AI · Web3 · Product Engineering
 
-*I build products from the first idea to production.*
+**Building products from idea to production — 15 years of shipping software that matters.**
 
 <br>
 
-<a href="https://www.linkedin.com/in/amirmoqadam">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;
-<a href="https://github.com/amirofski">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
-<a href="mailto:amir.devel@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmoqadam)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amirofski)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amir.devel@gmail.com)
+[![Location](https://img.shields.io/badge/Tehran%2C%20Iran-Remote--Ready-2E8B57?style=for-the-badge)](https://linkedin.com/in/amirmoqadam)
 
 </div>
 
 ---
 
-```text
-┌─ /usr/bin/amir ──────────────────────────────────────────────────────┐
-│                                                                      │
-│  role       Senior Software Engineer                                 │
-│  focus      Product Engineering · Frontend · AI · Web3               │
-│  experience 15+ years                                                │
-│  mindset    Build → Measure → Improve → Repeat                       │
-│  status     ████████████████████████████████████████  SHIP IT        │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
-```
+## About Me
 
-## `whoami`
+I'm a Senior Software Engineer with **15+ years** of experience building products across the entire stack. My career spans from early-stage startups to enterprise systems, with deep expertise in **frontend, backend, infrastructure, and product engineering**.
 
-I've spent most of my career building software from scratch.
+**My philosophy:** Problem first, technology second. I build systems that are simple, maintainable, and designed to scale.
 
-My path started with traditional web development, long before modern frameworks, cloud platforms, and AI coding tools. Since then I've built social platforms, video systems, SaaS products, blockchain applications, and AI-powered software.
+### What I've Built
 
-I tend to move across the stack when the product needs it: frontend, backend, databases, infrastructure, deployment, architecture, and sometimes even the parts of the product that have nothing to do with writing code.
-
-I care about the problem before the technology.
+- **99,000+ users** — Engineered a multimedia social platform from scratch as a solo engineer
+- **5,000+ film archives** — Digitized and optimized content infrastructure for major video platforms
+- **Blockchain products** — Designed and deployed Ethereum smart contracts and Web3 applications
+- **Production systems** — Built and operated high-scale infrastructure handling millions of records and terabytes of data
 
 ---
 
-## `proof`
+## 🔧 Technical Stack
 
-> **99,000+ users**
-> Built and operated a multimedia social platform as a solo engineer.
-
-> **15M+ database records · 50GB**
-> Designed and operated the production database behind that platform.
-
-> **5,000+ film archives**
-> Worked on large-scale film digitization and video workflows at SabaIdea.
-
-> **40% / 50% / 60%**
-> Improved retrieval, processing, and content-delivery workflows across video systems.
-
-> **Ethereum Mainnet**
-> Designed and deployed smart contracts and built Web3 applications for startup products.
-
-The numbers matter, but the engineering decisions behind them matter more.
-
----
-
-## `selected-work`
-
-### `friendfa`
-
-**Multimedia Social Network · PHP · MySQL · JavaScript**
-
-Built from scratch as a solo engineer.
-
-Designed the application, database, infrastructure, deployment pipeline, social features, private messaging, personal storage, SEO strategy, and production operations.
-
-**Result:** 99,000+ registered users.
-
----
-
-### `sabaidea`
-
-**Video Products · Aparat · Filimo · Content Infrastructure**
-
-Worked across video processing, film digitization, storage, segmentation, quality profiling, and adaptive streaming.
-
-**Result:** 5,000+ digitized national film archives and measurable improvements across retrieval, processing, delivery, and engagement.
-
----
-
-### `serenity shield`
-
-**Web3 · React · Vite · Node.js · Infrastructure**
-
-Modernized a production blockchain frontend by migrating CRA → Vite, rebuilding wallet interactions, integrating product features, and managing production infrastructure.
-
-**Result:** frontend modernization, improved wallet UX, and hands-on ownership across application and infrastructure layers.
-
----
-
-### `arzansite`
-
-**AI · React · Vite · Node.js · Open Source**
-
-An AI-powered platform for turning ideas into websites.
-
-Built as an exploration of AI-assisted product development, automated generation, and the boundary between software engineering and product creation.
-
-[View on GitHub →](https://github.com/amirofski)
-
----
-
-### `scroll-narrative-framework`
-
-**Open Source · Architecture · Experience Systems**
-
-An exploration of a different way to build interactive web experiences: describe the experience first, compile it into an experience graph, then execute it across runtimes.
-
-[Explore the project →](https://github.com/amirofski/scroll-narrative-framework)
-
----
-
-## `engineering-principles`
-
-```text
-01  Understand the problem before writing the solution.
-
-02  Prefer simple systems that can evolve.
-
-03  Treat frontend, backend, infrastructure, and product as one system.
-
-04  Measure real behavior instead of assuming.
-
-05  Read the documentation. Then experiment.
-
-06  Use AI as a force multiplier, not as a substitute for understanding.
-
-07  Leave the codebase better than you found it.
-```
-
----
-
-## `stack`
-
-### Product & Frontend
-
-`React` · `Next.js` · `TypeScript` · `JavaScript` · `Vite` · `Tailwind CSS`
+### Frontend
+`React` · `TypeScript` · `Vite` · `Next.js` · `Tailwind CSS` · `JavaScript`
 
 ### Backend
+`Node.js` · `NestJS` · `PHP` · `REST APIs` · `GraphQL` · `WordPress`
 
-`Node.js` · `NestJS` · `PHP` · `REST` · `GraphQL`
+### Database & Cache
+`PostgreSQL` · `MySQL` · `MariaDB` · `Redis` · `15M+ records scaling`
 
-### Data
+### Web3 & Blockchain
+`Solidity` · `Ethereum` · `Solana` · `Web3.js` · `MetaMask` · `WalletConnect`
 
-`PostgreSQL` · `MySQL` · `MariaDB` · `Redis`
+### Infrastructure & DevOps
+`Linux` · `Nginx` · `Docker` · `PM2` · `Cloudflare` · `Vercel` · `CI/CD` · `AWS`
 
-### Web3
-
-`Solidity` · `Ethereum` · `Solana` · `Web3.js` · `WalletConnect`
-
-### Infrastructure
-
-`Linux` · `Docker` · `Nginx` · `PM2` · `Cloudflare` · `CI/CD`
-
-### AI
-
-`LLM Applications` · `AI APIs` · `Prompt Engineering` · `AI-assisted Development`
+### AI & LLMs
+`LLM Applications` · `Prompt Engineering` · `AI-assisted Development` · `AI APIs`
 
 ---
 
-## `now`
+## 💼 Professional Experience
 
-I'm currently focused on the intersection of:
+### Full Stack Engineer — Serenity Shield
+**May 2024 – Feb 2026 · Oman**
+- Modernized production frontend: Migrated from Create React App → Vite with full dependency upgrade
+- Rebuilt Web3 wallet integration for improved UX and reliability using Web3.js and MetaMask
+- Managed production infrastructure: Nginx, MySQL, Node.js, PHP, PM2
+- Developed full-stack features while continuously improving architecture and developer workflows
+
+### Chief Technology Officer — Baroxan Management
+**Mar 2022 – Mar 2023 · Turkey**
+- Led technical development of Web3 platform from smart contracts to frontend deployment
+- Designed and deployed Ethereum smart contract for token ecosystem
+- Built token-sale platform with React frontend and Node.js backend
+- Implemented MetaMask and blockchain transaction flows
+
+### Full Stack Engineer — SabaIdea
+**Jan 2015 – Mar 2019 · Tehran, Iran**
+- Engineered infrastructure behind **Aparat** and **Filimo** (major Iranian video platforms)
+- Digitized 5,000+ national film archives with **40% faster** data retrieval
+- Automated video processing workflows: **50% reduction** in processing time
+- Improved content delivery performance: **60% faster** video streaming
+- Implemented adaptive streaming for **40% improvement** in user engagement
+
+### Founder & Lead Engineer — Friendfa
+**Jan 2009 – Nov 2011 · Tehran, Iran**
+- Built multimedia social platform from scratch as solo engineer
+- Achieved **99,000+ registered users** through architecture, development, operations
+- Engineered full stack: PHP, MySQL, JavaScript, jQuery, HTML/CSS
+- Scaled infrastructure from single server to load-balanced dual-server setup
+- Managed production database: 15M+ records, 50GB+ data
+
+### Broadcast Engineer — IRIB (Iranian Television)
+**Mar 2003 – Dec 2008 · Tehran, Iran**
+- Introduced new visual effects tools and HD production workflows
+- Trained teams on production automation and quality improvement
+
+---
+
+## 🚀 Featured Projects
+
+### **ArzanSite** — AI Website Design Platform
+**React · Vite · TypeScript · Node.js · Open Source**
+
+An AI-powered platform for transforming ideas into fully functional websites. Explores the intersection of AI-assisted development and product engineering.
+
+- [Frontend Repository](https://github.com/amirofski/Arzansite)
+- [Backend Repository](https://github.com/amirofski/arzansite-nest-be)
+
+### **Scroll Narrative Framework** — Interactive Experience Systems
+**Architecture · Open Source**
+
+A framework for building interactive web experiences by describing the experience first, then compiling it into an executable experience graph.
+
+- [Explore the project](https://github.com/amirofski/scroll-narrative-framework)
+
+### **Ethereum / Web3 Projects**
+**Solidity · Web3.js · MetaMask · Token Platforms**
+
+Smart contracts, token ecosystems, wallet integrations, and decentralized applications for international startups and platforms.
+
+- Smart contract development and deployment
+- Token platform infrastructure
+- Web3.js integration and wallet connections
+
+---
+
+## 🎯 Engineering Principles
+
+```
+✓ Understand the problem before writing code
+✓ Prefer simple systems that can evolve
+✓ Treat frontend, backend, and infrastructure as one integrated system
+✓ Measure behavior instead of assuming
+✓ Read docs first, then experiment
+✓ Use AI as a force multiplier, not a replacement for understanding
+✓ Always leave the codebase better than you found it
+```
+
+---
+
+## 📊 By The Numbers
+
+| Metric | Achievement |
+|--------|------------|
+| **Users** | 99,000+ |
+| **Database** | 15M+ records, 50GB+ |
+| **Film Archives** | 5,000+ digitized |
+| **Performance Gains** | 40% / 50% / 60% improvements |
+| **Years Experience** | 15+ |
+| **Stack** | 30+ technologies |
+
+---
+
+## 🔍 Current Focus
+
+I'm working at the intersection of:
 
 **AI × Software Engineering × Product**
 
-I'm especially interested in systems that make software development more capable without making the underlying engineering less understandable.
+Specifically interested in systems that amplify engineering capability without sacrificing code quality or maintainability.
 
 ---
 
-## `open-source`
+## 📚 Open Source
 
-Some of the projects and ideas I'm building in public:
+Actively building and experimenting in public:
 
-* **[Scroll Narrative Framework](https://github.com/amirofski/scroll-narrative-framework)**
-* **[ArzanSite](https://github.com/amirofski)**
-* More experiments, tools, and engineering notes are coming.
+- **[ArzanSite](https://github.com/amirofski/Arzansite)** — AI-assisted web design
+- **[Scroll Narrative Framework](https://github.com/amirofski/scroll-narrative-framework)** — Interactive experience systems
+- **[GitHub OSINT](https://github.com/amirofski/github_osint)** — Security analysis tool
+- More tools, experiments, and engineering notes regularly added
 
 ---
 
-## `contact`
+## 📞 Get In Touch
 
-The best way to reach me:
-
-**LinkedIn:**
-https://www.linkedin.com/in/amirmoqadam
-
-**GitHub:**
-https://github.com/amirofski
-
-**Email:**
-[amir.devel@gmail.com](mailto:amir.devel@gmail.com)
+**LinkedIn:** [linkedin.com/in/amirmoqadam](https://www.linkedin.com/in/amirmoqadam)  
+**GitHub:** [github.com/amirofski](https://github.com/amirofski)  
+**Email:** [amir.devel@gmail.com](mailto:amir.devel@gmail.com)
 
 ---
 
 <div align="center">
 
-### `build something worth remembering.`
+### `BUILD → SHIP → LEARN → REPEAT`
+
+*The best code is the one that solves real problems for real users.*
 
 </div>
-
-<!--
-If you found this profile interesting, start with the projects above.
-The repository list is the real resume.
--->
-
----
-
-<!--
-
-    ╔══════════════════════════════════════════════╗
-    ║                                              ║
-    ║        BUILD > SHIP > LEARN > REPEAT        ║
-    ║                                              ║
-    ╚══════════════════════════════════════════════╝
-
--->
